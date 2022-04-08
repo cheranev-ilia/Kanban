@@ -63,7 +63,7 @@
 										 Text="{Binding Text}" AcceptsReturn="True" TextWrapping="Wrap"/>
 								<Image Source="{Binding PathToImage}" Margin="5"/>
 								<Button Height="30" HorizontalAlignment="Stretch" FontSize="15" Margin="0,10,0,0"
-										Click="AddImage">AddImage</Button>
+										Click="AddImage">Add Image</Button>
 								<Button Height="30" HorizontalAlignment="Stretch" FontSize="15"
 										Margin="0,10,0,0" Click="DeleteTask" Tag="0">Delete</Button>
 							</StackPanel>
@@ -86,7 +86,7 @@
 										 Text="{Binding Text}" AcceptsReturn="True" TextWrapping="Wrap"/>
 								<Image Source="{Binding PathToImage}" Margin="5"/>
 								<Button Height="30" HorizontalAlignment="Stretch" FontSize="15" Margin="0,10,0,0"
-										Click="AddImage">AddImage</Button>
+										Click="AddImage">Add Image</Button>
 								<Button Height="30" HorizontalAlignment="Stretch" FontSize="15"
 										Margin="0,10,0,0" Click="DeleteTask" Tag="1">Delete</Button>
 							</StackPanel>
@@ -109,7 +109,7 @@
 										 Text="{Binding Text}" AcceptsReturn="True" TextWrapping="Wrap"/>
 								<Image Source="{Binding PathToImage}" Margin="5"/>
 								<Button Height="30" HorizontalAlignment="Stretch" FontSize="15" Margin="0,10,0,0"
-										Click="AddImage">AddImage</Button>
+										Click="AddImage">Add Image</Button>
 								<Button Height="30" HorizontalAlignment="Stretch" FontSize="15"
 										Margin="0,10,0,0" Click="DeleteTask" Tag="2">Delete</Button>
 							</StackPanel>
